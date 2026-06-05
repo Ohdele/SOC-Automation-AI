@@ -3,6 +3,8 @@
 ## Objective
 Built a SOC automation lab that simulates real-world attack detection, log ingestion, threat intelligence enrichment, AI-assisted analysis, and automated alert delivery via Slack using Splunk and n8n. The goal is to replicate an end-to-end SOC workflow from detection to response automation.
 
+This project demonstrates my ability to build and operate a full SOC detection pipeline, from log ingestion and attack simulation to alert triage, threat intelligence enrichment, and automated incident response.
+
 ---
 
 ## Skills Learned
