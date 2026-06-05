@@ -1,7 +1,7 @@
 # SOC Automation with AI Project (n8n + Splunk + Threat Intelligence + AI)
 
 ## Objective
-Build an automated SOC workflow using n8n to process Splunk alerts, enrich IP indicators, analyze security incidents, and deliver structured reports into Slack.
+Built a SOC automation lab that simulates real-world attack detection, log ingestion, threat intelligence enrichment, AI-assisted analysis, and automated alert delivery via Slack using Splunk and n8n. The goal is to replicate an end-to-end SOC workflow from detection to response automation.
 
 ---
 
